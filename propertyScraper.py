@@ -20,9 +20,9 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# Input from user
+#url = input("Enter Zillow House Listing Url- ")
 
-url = input("Enter Zillow House Listing Url- ")
+url = "https://www.zillow.com/homedetails/531-Knox-Ave-N-Minneapolis-MN-55405/1897968_zpid/"
 
 # Making the website believe that you are accessing it using a mozilla browser
 
