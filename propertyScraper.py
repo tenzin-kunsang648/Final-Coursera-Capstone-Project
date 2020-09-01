@@ -43,11 +43,17 @@ for title in soup.findAll('title'):
     property_json['Title'] = title.text.strip()
     break
 
+print(property_json)
+
 for meta in soup.findAll('meta', attrs={'name': 'description'}):
     property_json['Detail_Short'] = meta['content'].strip()
 
+print(property_json)
+
 for div in soup.findAll('div', attrs={'class': 'character-count-truncated'}):
     property_json['Details_Broad']['Description'] = div.text.strip()
+
+print(property_json)
 
 for (i, script) in enumerate(soup.findAll('script', attrs={'type': 'application/ld+json'})):
     if i == 0:
@@ -63,6 +69,8 @@ for (i, script) in enumerate(soup.findAll('script', attrs={'type': 'application/
         property_json['Price in $'] = json_data['offers']['price'] 
         property_json['Image'] = json_data['image'] 
     break
+
+print(property_json)
 
 with open('data.json', 'w') as outfile:
     json.dump(property_json, outfile, indent=4)
