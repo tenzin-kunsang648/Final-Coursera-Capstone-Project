@@ -1,289 +1,289 @@
 ,street,neighborhood,streetLatitude,streetLongitude,venue,venueLatitude,venueLongitude,venueCategory
-0,6031 Thomas Ave S,"Armantage, Minneapolis",44.893322999999995,-93.313384,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
-1,6031 Thomas Ave S,"Armantage, Minneapolis",44.893322999999995,-93.313384,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
-2,6031 Thomas Ave S,"Armantage, Minneapolis",44.893322999999995,-93.313384,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
-3,6031 Thomas Ave S,"Armantage, Minneapolis",44.893322999999995,-93.313384,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
-4,6031 Thomas Ave S,"Armantage, Minneapolis",44.893322999999995,-93.313384,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
-5,5504 Richmond Curv,"Armantage, Minneapolis",44.903069,-93.311553,Red Wagon Pizza Company,44.90461964315404,-93.30875120946088,Pizza Place
-6,5504 Richmond Curv,"Armantage, Minneapolis",44.903069,-93.311553,Colita,44.904919960801095,-93.30902113913874,Mexican Restaurant
-7,5504 Richmond Curv,"Armantage, Minneapolis",44.903069,-93.311553,Book Club,44.90460361332652,-93.30848162328678,Restaurant
-8,5504 Richmond Curv,"Armantage, Minneapolis",44.903069,-93.311553,Armatage Park,44.89945914573085,-93.31088271059494,Park
-9,5504 Richmond Curv,"Armantage, Minneapolis",44.903069,-93.311553,Snap Fitness,44.904665808366495,-93.308502530493,Gym
-10,5504 Richmond Curv,"Armantage, Minneapolis",44.903069,-93.311553,Kwan's Chinese Cuisine,44.90467766981271,-93.30871259580493,Chinese Restaurant
-11,5504 Richmond Curv,"Armantage, Minneapolis",44.903069,-93.311553,Dreadlocks For Dingoes,44.904705766858,-93.30856919288635,Pet Store
-12,5504 Richmond Curv,"Armantage, Minneapolis",44.903069,-93.311553,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
-13,5737 Sheridan Ave S,"Armantage, Minneapolis",44.898643,-93.31211400000001,Armatage Park,44.89945914573085,-93.31088271059494,Park
-14,5737 Sheridan Ave S,"Armantage, Minneapolis",44.898643,-93.31211400000001,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
-15,5737 Sheridan Ave S,"Armantage, Minneapolis",44.898643,-93.31211400000001,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
-16,5737 Sheridan Ave S,"Armantage, Minneapolis",44.898643,-93.31211400000001,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
-17,5822 Upton Ave S,"Armantage, Minneapolis",44.89721,-93.31537800000001,Armatage Park,44.89945914573085,-93.31088271059494,Park
-18,5822 Upton Ave S,"Armantage, Minneapolis",44.89721,-93.31537800000001,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
-19,5822 Upton Ave S,"Armantage, Minneapolis",44.89721,-93.31537800000001,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
-20,5822 Upton Ave S,"Armantage, Minneapolis",44.89721,-93.31537800000001,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
-21,5822 Upton Ave S,"Armantage, Minneapolis",44.89721,-93.31537800000001,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
-22,5520 Morgan Ave S,"Armantage, Minneapolis",44.902484,-93.305194,Red Wagon Pizza Company,44.90461964315404,-93.30875120946088,Pizza Place
-23,5520 Morgan Ave S,"Armantage, Minneapolis",44.902484,-93.305194,Colita,44.904919960801095,-93.30902113913874,Mexican Restaurant
-24,5520 Morgan Ave S,"Armantage, Minneapolis",44.902484,-93.305194,Book Club,44.90460361332652,-93.30848162328678,Restaurant
-25,5520 Morgan Ave S,"Armantage, Minneapolis",44.902484,-93.305194,Snap Fitness,44.904665808366495,-93.308502530493,Gym
-26,5520 Morgan Ave S,"Armantage, Minneapolis",44.902484,-93.305194,Kwan's Chinese Cuisine,44.90467766981271,-93.30871259580493,Chinese Restaurant
-27,5520 Morgan Ave S,"Armantage, Minneapolis",44.902484,-93.305194,Dreadlocks For Dingoes,44.904705766858,-93.30856919288635,Pet Store
-28,5520 Morgan Ave S,"Armantage, Minneapolis",44.902484,-93.305194,All Hours Sewer & Drain,44.90602,-93.30518,Home Service
-29,5520 Morgan Ave S,"Armantage, Minneapolis",44.902484,-93.305194,Armatage Soccer Fields,44.899572,-93.309832,Soccer Field
-30,2521 W 60th St,"Armantage, Minneapolis",44.894086,-93.312273,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
-31,2521 W 60th St,"Armantage, Minneapolis",44.894086,-93.312273,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
-32,2521 W 60th St,"Armantage, Minneapolis",44.894086,-93.312273,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
-33,2521 W 60th St,"Armantage, Minneapolis",44.894086,-93.312273,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
-34,2521 W 60th St,"Armantage, Minneapolis",44.894086,-93.312273,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
-35,2521 W 60th St,"Armantage, Minneapolis",44.894086,-93.312273,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
-36,5904 Upton Ave S,"Armantage, Minneapolis",44.895926,-93.31537800000001,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
-37,5904 Upton Ave S,"Armantage, Minneapolis",44.895926,-93.31537800000001,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
-38,5904 Upton Ave S,"Armantage, Minneapolis",44.895926,-93.31537800000001,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
-39,5904 Upton Ave S,"Armantage, Minneapolis",44.895926,-93.31537800000001,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
-40,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Xerxes Ave & 65th St Bus Stop,44.89397374158656,-93.31893632600877,Bus Station
-41,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
-42,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Washburn Avenue Totlot,44.89749831071437,-93.31734811540632,Playground
-43,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,The Bus Stop,44.89624870710775,-93.31374410037299,Bus Station
-44,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Heath Rancho del Norte,44.898182,-93.31716800000001,Hotel
-45,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Video Buddy,44.892973,-93.314617,Movie Theater
-46,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Kbla's Wine Bar,44.89449366407857,-93.31315253381668,Wine Bar
-47,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,The BBQ Patio,44.89448483887574,-93.31315162087036,Steakhouse
-48,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Annamarie's Bake Shop and Eatery,44.892417,-93.314575,Bakery
-49,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Smokin Spot,44.89230960523277,-93.31467335043752,Park
-50,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
-51,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,EnemyPlanesHanger,44.891641,-93.319243,Music Venue
-52,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
-53,5929 Washburn Ave S,"Armantage, Minneapolis",44.895278999999995,-93.317194,Break Room,44.89102500927346,-93.31819384345481,Food Court
-54,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,Washburn Avenue Totlot,44.89749831071437,-93.31734811540632,Playground
-55,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,Heath Rancho del Norte,44.898182,-93.31716800000001,Hotel
-56,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,Xerxes Ave & 65th St Bus Stop,44.89397374158656,-93.31893632600877,Bus Station
-57,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
-58,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
-59,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,The Bus Stop,44.89624870710775,-93.31374410037299,Bus Station
-60,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,Blunderbuss Brewery,44.8980217350037,-93.32294395864501,Pub
-61,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,The BBQ Patio,44.89448483887574,-93.31315162087036,Steakhouse
-62,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,Kbla's Wine Bar,44.89449366407857,-93.31315253381668,Wine Bar
-63,5853 Xerxes Ave S,"Armantage, Minneapolis",44.89643,-93.318464,Video Buddy,44.892973,-93.314617,Movie Theater
-64,6020 Thomas Ave S,"Armantage, Minneapolis",44.893696999999996,-93.31410799999999,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
-65,6020 Thomas Ave S,"Armantage, Minneapolis",44.893696999999996,-93.31410799999999,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
-66,6020 Thomas Ave S,"Armantage, Minneapolis",44.893696999999996,-93.31410799999999,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
-67,6020 Thomas Ave S,"Armantage, Minneapolis",44.893696999999996,-93.31410799999999,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
-68,6020 Thomas Ave S,"Armantage, Minneapolis",44.893696999999996,-93.31410799999999,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
-69,6020 Thomas Ave S,"Armantage, Minneapolis",44.893696999999996,-93.31410799999999,MN 62 and Xerxes Ave,44.89077067041971,-93.3187789777757,Intersection
-70,6020 Thomas Ave S,"Armantage, Minneapolis",44.893696999999996,-93.31410799999999,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
-71,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,Armatage Park,44.89945914573085,-93.31088271059494,Park
-72,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
-73,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
-74,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
-75,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
-76,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
-77,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
-78,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,Armatage Soccer Fields,44.899572,-93.309832,Soccer Field
-79,5904 Russell Ave S,"Armantage, Minneapolis",44.8959,-93.31156899999999,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
-80,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,Lunds & Byerlys,44.889663260629874,-93.30931109039197,Supermarket
-81,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,ALDI,44.88876471120177,-93.30940446476234,Grocery Store
-82,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,Caribou Coffee,44.889444869486276,-93.30922901630402,Coffee Shop
-83,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,Redbox,44.88956832885742,-93.30935668945312,Video Store
-84,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
-85,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
-86,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
-87,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,Posters on Board,44.88944486948624,-93.30842971801758,Arts & Crafts Store
-88,6112 Sheridan Ave S,"Armantage, Minneapolis",44.892035,-93.312837,MN 62 and Xerxes Ave,44.89077067041971,-93.3187789777757,Intersection
-89,5729 Morgan Ave S,"Armantage, Minneapolis",44.898813,-93.30449499999999,Armatage Soccer Fields,44.899572,-93.309832,Soccer Field
-90,5729 Morgan Ave S,"Armantage, Minneapolis",44.898813,-93.30449499999999,Twin Cities Gutter Care,44.89628,-93.300198,Construction & Landscaping
-91,5729 Morgan Ave S,"Armantage, Minneapolis",44.898813,-93.30449499999999,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
-92,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
-93,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Xerxes Ave & 65th St Bus Stop,44.89397374158656,-93.31893632600877,Bus Station
-94,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Washburn Avenue Totlot,44.89749831071437,-93.31734811540632,Playground
-95,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,The Bus Stop,44.89624870710775,-93.31374410037299,Bus Station
-96,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Heath Rancho del Norte,44.898182,-93.31716800000001,Hotel
-97,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,The BBQ Patio,44.89448483887574,-93.31315162087036,Steakhouse
-98,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Kbla's Wine Bar,44.89449366407857,-93.31315253381668,Wine Bar
-99,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Video Buddy,44.892973,-93.314617,Movie Theater
-100,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Annamarie's Bake Shop and Eatery,44.892417,-93.314575,Bakery
-101,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Smokin Spot,44.89230960523277,-93.31467335043752,Park
-102,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
-103,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,EnemyPlanesHanger,44.891641,-93.319243,Music Venue
-104,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
-105,5925 Washburn Ave S,"Armantage, Minneapolis",44.895389,-93.317194,Break Room,44.89102500927346,-93.31819384345481,Food Court
-106,5908 Morgan Ave S,"Armantage, Minneapolis",44.895686,-93.30508499999999,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
-107,5908 Morgan Ave S,"Armantage, Minneapolis",44.895686,-93.30508499999999,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
-108,5908 Morgan Ave S,"Armantage, Minneapolis",44.895686,-93.30508499999999,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
-109,5908 Morgan Ave S,"Armantage, Minneapolis",44.895686,-93.30508499999999,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
-110,5926 Penn Ave S,"Armantage, Minneapolis",44.895206,-93.30904,Armatage Park,44.89945914573085,-93.31088271059494,Park
-111,5926 Penn Ave S,"Armantage, Minneapolis",44.895206,-93.30904,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
-112,5926 Penn Ave S,"Armantage, Minneapolis",44.895206,-93.30904,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
-113,5926 Penn Ave S,"Armantage, Minneapolis",44.895206,-93.30904,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
-114,5926 Penn Ave S,"Armantage, Minneapolis",44.895206,-93.30904,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
-115,5926 Penn Ave S,"Armantage, Minneapolis",44.895206,-93.30904,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
-116,5926 Penn Ave S,"Armantage, Minneapolis",44.895206,-93.30904,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
-117,5926 Penn Ave S,"Armantage, Minneapolis",44.895206,-93.30904,Armatage Soccer Fields,44.899572,-93.309832,Soccer Field
-118,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Red Wagon Pizza Company,44.90461964315404,-93.30875120946088,Pizza Place
-119,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Colita,44.904919960801095,-93.30902113913874,Mexican Restaurant
-120,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Armatage Park,44.89945914573085,-93.31088271059494,Park
-121,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Book Club,44.90460361332652,-93.30848162328678,Restaurant
-122,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Snap Fitness,44.904665808366495,-93.308502530493,Gym
-123,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Kwan's Chinese Cuisine,44.90467766981271,-93.30871259580493,Chinese Restaurant
-124,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
-125,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Dreadlocks For Dingoes,44.904705766858,-93.30856919288635,Pet Store
-126,5615 Penn Ave S,"Armantage, Minneapolis",44.901059000000004,-93.308242,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
-127,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Eastside Food Co-op,45.014522705881475,-93.24689702622749,Organic Grocery
-128,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Holy Land - Northeast,45.01364617480907,-93.24719378643447,Middle Eastern Restaurant
-129,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Fair State Brewing Cooperative,45.013547085588115,-93.24767663403402,Brewery
-130,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,El Taco Riendo,45.01276170400099,-93.2474095988009,Mexican Restaurant
-131,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Central Avenue Liquors,45.01446306113966,-93.24764329123003,Liquor Store
-132,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Aki's Bread Haus,45.01357069679567,-93.24751799746517,Bakery
-133,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Sen Yai Sen Lek,45.01296118812239,-93.24755151071518,Thai Restaurant
-134,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Costa Blanca Bistro,45.01278606602034,-93.24749454245459,Tapas Restaurant
-135,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Karta Thai,45.01261839036057,-93.24725746884417,Thai Restaurant
-136,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Crescent Moon Bakery,45.012057346611236,-93.24736602318063,Pizza Place
-137,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Durango Bakery,45.01283675658217,-93.24743117260316,Bakery
-138,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Redbox,45.015747,-93.247366,Video Store
-139,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Wells Fargo,45.0117678,-93.2471186,Bank
-140,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Walgreens,45.0152912,-93.2476958,Pharmacy
-141,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,U.S. Bank ATM,45.0117620590769,-93.24802694127504,ATM
-142,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Adelita's Mexican Restaurant,45.01239585779145,-93.24722998184029,Mexican Restaurant
-143,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Al-Amir Restaurant and Bakery,45.01483175486762,-93.2475757598877,Bakery
-144,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Sabor Latina,45.01343179264252,-93.24746083378007,Latin American Restaurant
-145,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,DIPPED & DEBRIS,45.0129591717678,-93.24755606743902,Sandwich Place
-146,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Lowry Central Bowler,45.01300048828125,-93.2476577758789,Sporting Goods Shop
-147,1106 26th Ave NE,"Auduborn Park, Minneapolis",45.014759000000005,-93.243323,Salvation Army,45.01762008666992,-93.24681091308594,Thrift / Vintage Store
-148,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
-149,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
-150,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
-151,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Audubon Park,45.02009524971571,-93.23989885744642,Park
-152,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
-153,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
-154,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
-155,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Jimmy's Smart Stop,45.01659093952955,-93.23685381082821,Convenience Store
-156,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
-157,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Hollywood Theater,45.019083,-93.236746,Movie Theater
-158,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
-159,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
-160,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Rewind Vintage - Northeast,45.019631,-93.236866,Clothing Store
-161,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
-162,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
-163,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
-164,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,Fairview pharmacy NE,45.020159350404946,-93.23710586528064,Pharmacy
-165,2723 Lincoln St NE,"Auduborn Park, Minneapolis",45.017661,-93.238034,A Bag Lady,45.020308,-93.237339,Jewelry Store
-166,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
-167,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
-168,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Audubon Park,45.02009524971571,-93.23989885744642,Park
-169,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
-170,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
-171,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
-172,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
-173,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Deming Heights Park,45.02448104202494,-93.24263397121771,Park
-174,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
-175,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
-176,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
-177,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
-178,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
-179,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
-180,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Hollywood Theater,45.019083,-93.236746,Movie Theater
-181,2922 Lincoln St NE,"Auduborn Park, Minneapolis",45.021127,-93.238749,Shannon Aleczander Salon and Spa,45.02421,-93.237415,Salon / Barbershop
-182,2504 Garfield St NE,"Auduborn Park, Minneapolis",45.013427,-93.23339200000001,Mother Earth Gardens Northeast,45.01315661321824,-93.22715797138137,Garden Center
-183,2504 Garfield St NE,"Auduborn Park, Minneapolis",45.013427,-93.23339200000001,Windom Park,45.01147699271594,-93.23726035683897,Park
-184,2504 Garfield St NE,"Auduborn Park, Minneapolis",45.013427,-93.23339200000001,Que Viet Village House,45.01002365957301,-93.23701074086064,Vietnamese Restaurant
-185,2504 Garfield St NE,"Auduborn Park, Minneapolis",45.013427,-93.23339200000001,Jimmy's Smart Stop,45.01659093952955,-93.23685381082821,Convenience Store
-186,2504 Garfield St NE,"Auduborn Park, Minneapolis",45.013427,-93.23339200000001,Windom Park Rec Building,45.01139898480605,-93.23450490115324,Park
-187,2504 Garfield St NE,"Auduborn Park, Minneapolis",45.013427,-93.23339200000001,Audubon Farmers Market,45.016761601882074,-93.23684288453607,Restaurant
-188,2559 Cleveland St NE,"Auduborn Park, Minneapolis",45.014875,-93.230345,Mother Earth Gardens Northeast,45.01315661321824,-93.22715797138137,Garden Center
-189,2559 Cleveland St NE,"Auduborn Park, Minneapolis",45.014875,-93.230345,Catrinas,45.01374878196114,-93.22451308267897,Mexican Restaurant
-190,2559 Cleveland St NE,"Auduborn Park, Minneapolis",45.014875,-93.230345,Bremer Bank,45.013878649938604,-93.22607591286277,Bank
-191,2559 Cleveland St NE,"Auduborn Park, Minneapolis",45.014875,-93.230345,4angels Creations,45.016490999999995,-93.226324,Arts & Crafts Store
-192,2634 Benjamin St NE,"Auduborn Park, Minneapolis",45.016031,-93.229805,Mother Earth Gardens Northeast,45.01315661321824,-93.22715797138137,Garden Center
-193,2634 Benjamin St NE,"Auduborn Park, Minneapolis",45.016031,-93.229805,Catrinas,45.01374878196114,-93.22451308267897,Mexican Restaurant
-194,2634 Benjamin St NE,"Auduborn Park, Minneapolis",45.016031,-93.229805,4angels Creations,45.016490999999995,-93.226324,Arts & Crafts Store
-195,2634 Benjamin St NE,"Auduborn Park, Minneapolis",45.016031,-93.229805,Bremer Bank,45.013878649938604,-93.22607591286277,Bank
-196,2634 Benjamin St NE,"Auduborn Park, Minneapolis",45.016031,-93.229805,Zip In - Capella Tower,45.02019705960385,-93.23021042097713,Snack Place
-197,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Deming Heights Park,45.02448104202494,-93.24263397121771,Park
-198,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
-199,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Audubon Park,45.02009524971571,-93.23989885744642,Park
-200,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
-201,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
-202,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
-203,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
-204,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
-205,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Shannon Aleczander Salon and Spa,45.02421,-93.237415,Salon / Barbershop
-206,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
-207,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
-208,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
-209,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
-210,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
-211,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
-212,3024 Buchanan St NE,"Auduborn Park, Minneapolis",45.022915000000005,-93.240049,Hollywood Theater,45.019083,-93.236746,Movie Theater
-213,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Audubon Park,45.02009524971571,-93.23989885744642,Park
-214,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
-215,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
-216,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
-217,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
-218,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
-219,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
-220,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Jimmy's Smart Stop,45.01659093952955,-93.23685381082821,Convenience Store
-221,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
-222,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
-223,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Hollywood Theater,45.019083,-93.236746,Movie Theater
-224,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
-225,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
-226,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Rewind Vintage - Northeast,45.019631,-93.236866,Clothing Store
-227,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
-228,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Fairview pharmacy NE,45.020159350404946,-93.23710586528064,Pharmacy
-229,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,A Bag Lady,45.020308,-93.237339,Jewelry Store
-230,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
-231,2723 Pierce St NE,"Auduborn Park, Minneapolis",45.017598,-93.24060300000001,Salvation Army,45.01762008666992,-93.24681091308594,Thrift / Vintage Store
-232,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Audubon Park,45.02009524971571,-93.23989885744642,Park
-233,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
-234,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Deming Heights Park,45.02448104202494,-93.24263397121771,Park
-235,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
-236,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
-237,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
-238,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
-239,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
-240,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
-241,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Shannon Aleczander Salon and Spa,45.02421,-93.237415,Salon / Barbershop
-242,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
-243,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
-244,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
-245,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
-246,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
-247,2957 Pierce St NE,"Auduborn Park, Minneapolis",45.022099,-93.24056999999999,Hollywood Theater,45.019083,-93.236746,Movie Theater
-248,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Audubon Park,45.02009524971571,-93.23989885744642,Park
-249,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
-250,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
-251,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
-252,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Chimborazo,45.02029989953101,-93.2471005253027,Latin American Restaurant
-253,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Deming Heights Park,45.02448104202494,-93.24263397121771,Park
-254,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
-255,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
-256,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
-257,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Twin Spirits Distillery,45.021414,-93.247003,Brewery
-258,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
-259,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
-260,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
-261,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
-262,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
-263,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
-264,1209 29th Ave NE,"Auduborn Park, Minneapolis",45.020614,-93.241744,Hollywood Theater,45.019083,-93.236746,Movie Theater
-265,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Eastside Food Co-op,45.014522705881475,-93.24689702622749,Organic Grocery
-266,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Holy Land - Northeast,45.01364617480907,-93.24719378643447,Middle Eastern Restaurant
-267,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Fair State Brewing Cooperative,45.013547085588115,-93.24767663403402,Brewery
-268,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Central Avenue Liquors,45.01446306113966,-93.24764329123003,Liquor Store
-269,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Aki's Bread Haus,45.01357069679567,-93.24751799746517,Bakery
-270,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,El Taco Riendo,45.01276170400099,-93.2474095988009,Mexican Restaurant
-271,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Sen Yai Sen Lek,45.01296118812239,-93.24755151071518,Thai Restaurant
-272,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Costa Blanca Bistro,45.01278606602034,-93.24749454245459,Tapas Restaurant
-273,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Karta Thai,45.01261839036057,-93.24725746884417,Thai Restaurant
-274,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Turbo Tim's Anything Automotive,45.01153351920192,-93.24826738784479,Automotive Shop
-275,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Crescent Moon Bakery,45.012057346611236,-93.24736602318063,Pizza Place
-276,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Durango Bakery,45.01283675658217,-93.24743117260316,Bakery
-277,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Redbox,45.015747,-93.247366,Video Store
-278,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Walgreens,45.0152912,-93.2476958,Pharmacy
-279,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Wells Fargo,45.0117678,-93.2471186,Bank
-280,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,U.S. Bank ATM,45.0117620590769,-93.24802694127504,ATM
-281,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Adelita's Mexican Restaurant,45.01239585779145,-93.24722998184029,Mexican Restaurant
-282,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Al-Amir Restaurant and Bakery,45.01483175486762,-93.2475757598877,Bakery
-283,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,Sabor Latina,45.01343179264252,-93.24746083378007,Latin American Restaurant
-284,2614 Polk St NE,"Auduborn Park, Minneapolis",45.015485,-93.246065,DIPPED & DEBRIS,45.0129591717678,-93.24755606743902,Sandwich Place
+0,6031 Thomas Ave S,"Armatage, Minneapolis",44.893322999999995,-93.313384,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
+1,6031 Thomas Ave S,"Armatage, Minneapolis",44.893322999999995,-93.313384,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
+2,6031 Thomas Ave S,"Armatage, Minneapolis",44.893322999999995,-93.313384,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
+3,6031 Thomas Ave S,"Armatage, Minneapolis",44.893322999999995,-93.313384,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
+4,6031 Thomas Ave S,"Armatage, Minneapolis",44.893322999999995,-93.313384,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
+5,5504 Richmond Curv,"Armatage, Minneapolis",44.903069,-93.311553,Red Wagon Pizza Company,44.90461964315404,-93.30875120946088,Pizza Place
+6,5504 Richmond Curv,"Armatage, Minneapolis",44.903069,-93.311553,Colita,44.904919960801095,-93.30902113913874,Mexican Restaurant
+7,5504 Richmond Curv,"Armatage, Minneapolis",44.903069,-93.311553,Book Club,44.90460361332652,-93.30848162328678,Restaurant
+8,5504 Richmond Curv,"Armatage, Minneapolis",44.903069,-93.311553,Armatage Park,44.89945914573085,-93.31088271059494,Park
+9,5504 Richmond Curv,"Armatage, Minneapolis",44.903069,-93.311553,Snap Fitness,44.904665808366495,-93.308502530493,Gym
+10,5504 Richmond Curv,"Armatage, Minneapolis",44.903069,-93.311553,Kwan's Chinese Cuisine,44.90467766981271,-93.30871259580493,Chinese Restaurant
+11,5504 Richmond Curv,"Armatage, Minneapolis",44.903069,-93.311553,Dreadlocks For Dingoes,44.904705766858,-93.30856919288635,Pet Store
+12,5504 Richmond Curv,"Armatage, Minneapolis",44.903069,-93.311553,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
+13,5737 Sheridan Ave S,"Armatage, Minneapolis",44.898643,-93.31211400000001,Armatage Park,44.89945914573085,-93.31088271059494,Park
+14,5737 Sheridan Ave S,"Armatage, Minneapolis",44.898643,-93.31211400000001,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
+15,5737 Sheridan Ave S,"Armatage, Minneapolis",44.898643,-93.31211400000001,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
+16,5737 Sheridan Ave S,"Armatage, Minneapolis",44.898643,-93.31211400000001,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
+17,5822 Upton Ave S,"Armatage, Minneapolis",44.89721,-93.31537800000001,Armatage Park,44.89945914573085,-93.31088271059494,Park
+18,5822 Upton Ave S,"Armatage, Minneapolis",44.89721,-93.31537800000001,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
+19,5822 Upton Ave S,"Armatage, Minneapolis",44.89721,-93.31537800000001,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
+20,5822 Upton Ave S,"Armatage, Minneapolis",44.89721,-93.31537800000001,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
+21,5822 Upton Ave S,"Armatage, Minneapolis",44.89721,-93.31537800000001,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
+22,5520 Morgan Ave S,"Armatage, Minneapolis",44.902484,-93.305194,Red Wagon Pizza Company,44.90461964315404,-93.30875120946088,Pizza Place
+23,5520 Morgan Ave S,"Armatage, Minneapolis",44.902484,-93.305194,Colita,44.904919960801095,-93.30902113913874,Mexican Restaurant
+24,5520 Morgan Ave S,"Armatage, Minneapolis",44.902484,-93.305194,Book Club,44.90460361332652,-93.30848162328678,Restaurant
+25,5520 Morgan Ave S,"Armatage, Minneapolis",44.902484,-93.305194,Snap Fitness,44.904665808366495,-93.308502530493,Gym
+26,5520 Morgan Ave S,"Armatage, Minneapolis",44.902484,-93.305194,Kwan's Chinese Cuisine,44.90467766981271,-93.30871259580493,Chinese Restaurant
+27,5520 Morgan Ave S,"Armatage, Minneapolis",44.902484,-93.305194,Dreadlocks For Dingoes,44.904705766858,-93.30856919288635,Pet Store
+28,5520 Morgan Ave S,"Armatage, Minneapolis",44.902484,-93.305194,All Hours Sewer & Drain,44.90602,-93.30518,Home Service
+29,5520 Morgan Ave S,"Armatage, Minneapolis",44.902484,-93.305194,Armatage Soccer Fields,44.899572,-93.309832,Soccer Field
+30,2521 W 60th St,"Armatage, Minneapolis",44.894086,-93.312273,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
+31,2521 W 60th St,"Armatage, Minneapolis",44.894086,-93.312273,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
+32,2521 W 60th St,"Armatage, Minneapolis",44.894086,-93.312273,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
+33,2521 W 60th St,"Armatage, Minneapolis",44.894086,-93.312273,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
+34,2521 W 60th St,"Armatage, Minneapolis",44.894086,-93.312273,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
+35,2521 W 60th St,"Armatage, Minneapolis",44.894086,-93.312273,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
+36,5904 Upton Ave S,"Armatage, Minneapolis",44.895926,-93.31537800000001,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
+37,5904 Upton Ave S,"Armatage, Minneapolis",44.895926,-93.31537800000001,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
+38,5904 Upton Ave S,"Armatage, Minneapolis",44.895926,-93.31537800000001,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
+39,5904 Upton Ave S,"Armatage, Minneapolis",44.895926,-93.31537800000001,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
+40,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Xerxes Ave & 65th St Bus Stop,44.89397374158656,-93.31893632600877,Bus Station
+41,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
+42,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Washburn Avenue Totlot,44.89749831071437,-93.31734811540632,Playground
+43,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,The Bus Stop,44.89624870710775,-93.31374410037299,Bus Station
+44,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Heath Rancho del Norte,44.898182,-93.31716800000001,Hotel
+45,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Video Buddy,44.892973,-93.314617,Movie Theater
+46,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Kbla's Wine Bar,44.89449366407857,-93.31315253381668,Wine Bar
+47,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,The BBQ Patio,44.89448483887574,-93.31315162087036,Steakhouse
+48,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Annamarie's Bake Shop and Eatery,44.892417,-93.314575,Bakery
+49,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Smokin Spot,44.89230960523277,-93.31467335043752,Park
+50,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
+51,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,EnemyPlanesHanger,44.891641,-93.319243,Music Venue
+52,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
+53,5929 Washburn Ave S,"Armatage, Minneapolis",44.895278999999995,-93.317194,Break Room,44.89102500927346,-93.31819384345481,Food Court
+54,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,Washburn Avenue Totlot,44.89749831071437,-93.31734811540632,Playground
+55,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,Heath Rancho del Norte,44.898182,-93.31716800000001,Hotel
+56,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,Xerxes Ave & 65th St Bus Stop,44.89397374158656,-93.31893632600877,Bus Station
+57,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
+58,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
+59,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,The Bus Stop,44.89624870710775,-93.31374410037299,Bus Station
+60,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,Blunderbuss Brewery,44.8980217350037,-93.32294395864501,Pub
+61,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,The BBQ Patio,44.89448483887574,-93.31315162087036,Steakhouse
+62,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,Kbla's Wine Bar,44.89449366407857,-93.31315253381668,Wine Bar
+63,5853 Xerxes Ave S,"Armatage, Minneapolis",44.89643,-93.318464,Video Buddy,44.892973,-93.314617,Movie Theater
+64,6020 Thomas Ave S,"Armatage, Minneapolis",44.893696999999996,-93.31410799999999,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
+65,6020 Thomas Ave S,"Armatage, Minneapolis",44.893696999999996,-93.31410799999999,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
+66,6020 Thomas Ave S,"Armatage, Minneapolis",44.893696999999996,-93.31410799999999,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
+67,6020 Thomas Ave S,"Armatage, Minneapolis",44.893696999999996,-93.31410799999999,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
+68,6020 Thomas Ave S,"Armatage, Minneapolis",44.893696999999996,-93.31410799999999,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
+69,6020 Thomas Ave S,"Armatage, Minneapolis",44.893696999999996,-93.31410799999999,MN 62 and Xerxes Ave,44.89077067041971,-93.3187789777757,Intersection
+70,6020 Thomas Ave S,"Armatage, Minneapolis",44.893696999999996,-93.31410799999999,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
+71,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,Armatage Park,44.89945914573085,-93.31088271059494,Park
+72,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
+73,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
+74,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
+75,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
+76,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
+77,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
+78,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,Armatage Soccer Fields,44.899572,-93.309832,Soccer Field
+79,5904 Russell Ave S,"Armatage, Minneapolis",44.8959,-93.31156899999999,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
+80,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,Lunds & Byerlys,44.889663260629874,-93.30931109039197,Supermarket
+81,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,ALDI,44.88876471120177,-93.30940446476234,Grocery Store
+82,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,Caribou Coffee,44.889444869486276,-93.30922901630402,Coffee Shop
+83,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,Redbox,44.88956832885742,-93.30935668945312,Video Store
+84,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
+85,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
+86,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
+87,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,Posters on Board,44.88944486948624,-93.30842971801758,Arts & Crafts Store
+88,6112 Sheridan Ave S,"Armatage, Minneapolis",44.892035,-93.312837,MN 62 and Xerxes Ave,44.89077067041971,-93.3187789777757,Intersection
+89,5729 Morgan Ave S,"Armatage, Minneapolis",44.898813,-93.30449499999999,Armatage Soccer Fields,44.899572,-93.309832,Soccer Field
+90,5729 Morgan Ave S,"Armatage, Minneapolis",44.898813,-93.30449499999999,Twin Cities Gutter Care,44.89628,-93.300198,Construction & Landscaping
+91,5729 Morgan Ave S,"Armatage, Minneapolis",44.898813,-93.30449499999999,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
+92,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,"Bus Stop for Metro Transit Bus 6C, E, & K.",44.8938874079642,-93.31876422640467,Bus Station
+93,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Xerxes Ave & 65th St Bus Stop,44.89397374158656,-93.31893632600877,Bus Station
+94,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Washburn Avenue Totlot,44.89749831071437,-93.31734811540632,Playground
+95,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,The Bus Stop,44.89624870710775,-93.31374410037299,Bus Station
+96,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Heath Rancho del Norte,44.898182,-93.31716800000001,Hotel
+97,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,The BBQ Patio,44.89448483887574,-93.31315162087036,Steakhouse
+98,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Kbla's Wine Bar,44.89449366407857,-93.31315253381668,Wine Bar
+99,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Video Buddy,44.892973,-93.314617,Movie Theater
+100,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Annamarie's Bake Shop and Eatery,44.892417,-93.314575,Bakery
+101,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Smokin Spot,44.89230960523277,-93.31467335043752,Park
+102,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
+103,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,EnemyPlanesHanger,44.891641,-93.319243,Music Venue
+104,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,LUGERTnDAY,44.899328000000004,-93.319117,Costume Shop
+105,5925 Washburn Ave S,"Armatage, Minneapolis",44.895389,-93.317194,Break Room,44.89102500927346,-93.31819384345481,Food Court
+106,5908 Morgan Ave S,"Armatage, Minneapolis",44.895686,-93.30508499999999,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
+107,5908 Morgan Ave S,"Armatage, Minneapolis",44.895686,-93.30508499999999,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
+108,5908 Morgan Ave S,"Armatage, Minneapolis",44.895686,-93.30508499999999,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
+109,5908 Morgan Ave S,"Armatage, Minneapolis",44.895686,-93.30508499999999,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
+110,5926 Penn Ave S,"Armatage, Minneapolis",44.895206,-93.30904,Armatage Park,44.89945914573085,-93.31088271059494,Park
+111,5926 Penn Ave S,"Armatage, Minneapolis",44.895206,-93.30904,Domino's Pizza,44.89477011351147,-93.30820843577385,Pizza Place
+112,5926 Penn Ave S,"Armatage, Minneapolis",44.895206,-93.30904,"Wagner Greenhouses, Inc.",44.892826853827515,-93.30937833541726,Flower Shop
+113,5926 Penn Ave S,"Armatage, Minneapolis",44.895206,-93.30904,Super USA,44.8946084277481,-93.30857700405524,Convenience Store
+114,5926 Penn Ave S,"Armatage, Minneapolis",44.895206,-93.30904,Campbell  Ron Interiors,44.897104,-93.307806,Furniture / Home Store
+115,5926 Penn Ave S,"Armatage, Minneapolis",44.895206,-93.30904,Goat Cheese Heaven,44.896551394544026,-93.31210689303344,Greek Restaurant
+116,5926 Penn Ave S,"Armatage, Minneapolis",44.895206,-93.30904,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
+117,5926 Penn Ave S,"Armatage, Minneapolis",44.895206,-93.30904,Armatage Soccer Fields,44.899572,-93.309832,Soccer Field
+118,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Red Wagon Pizza Company,44.90461964315404,-93.30875120946088,Pizza Place
+119,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Colita,44.904919960801095,-93.30902113913874,Mexican Restaurant
+120,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Armatage Park,44.89945914573085,-93.31088271059494,Park
+121,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Book Club,44.90460361332652,-93.30848162328678,Restaurant
+122,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Snap Fitness,44.904665808366495,-93.308502530493,Gym
+123,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Kwan's Chinese Cuisine,44.90467766981271,-93.30871259580493,Chinese Restaurant
+124,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Armatage Skate Park,44.899742126464844,-93.3105697631836,Skate Park
+125,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Dreadlocks For Dingoes,44.904705766858,-93.30856919288635,Pet Store
+126,5615 Penn Ave S,"Armatage, Minneapolis",44.901059000000004,-93.308242,Minnehaha Creek,44.89772177407137,-93.31142455324711,Trail
+127,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Eastside Food Co-op,45.014522705881475,-93.24689702622749,Organic Grocery
+128,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Holy Land - Northeast,45.01364617480907,-93.24719378643447,Middle Eastern Restaurant
+129,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Fair State Brewing Cooperative,45.013547085588115,-93.24767663403402,Brewery
+130,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,El Taco Riendo,45.01276170400099,-93.2474095988009,Mexican Restaurant
+131,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Central Avenue Liquors,45.01446306113966,-93.24764329123003,Liquor Store
+132,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Aki's Bread Haus,45.01357069679567,-93.24751799746517,Bakery
+133,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Sen Yai Sen Lek,45.01296118812239,-93.24755151071518,Thai Restaurant
+134,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Costa Blanca Bistro,45.01278606602034,-93.24749454245459,Tapas Restaurant
+135,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Karta Thai,45.01261839036057,-93.24725746884417,Thai Restaurant
+136,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Crescent Moon Bakery,45.012057346611236,-93.24736602318063,Pizza Place
+137,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Durango Bakery,45.01283675658217,-93.24743117260316,Bakery
+138,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Redbox,45.015747,-93.247366,Video Store
+139,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Wells Fargo,45.0117678,-93.2471186,Bank
+140,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Walgreens,45.0152912,-93.2476958,Pharmacy
+141,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,U.S. Bank ATM,45.0117620590769,-93.24802694127504,ATM
+142,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Adelita's Mexican Restaurant,45.01239585779145,-93.24722998184029,Mexican Restaurant
+143,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Al-Amir Restaurant and Bakery,45.01483175486762,-93.2475757598877,Bakery
+144,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Sabor Latina,45.01343179264252,-93.24746083378007,Latin American Restaurant
+145,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,DIPPED & DEBRIS,45.0129591717678,-93.24755606743902,Sandwich Place
+146,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Lowry Central Bowler,45.01300048828125,-93.2476577758789,Sporting Goods Shop
+147,1106 26th Ave NE,"Audubon Park, Minneapolis",45.014759000000005,-93.243323,Salvation Army,45.01762008666992,-93.24681091308594,Thrift / Vintage Store
+148,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
+149,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
+150,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
+151,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Audubon Park,45.02009524971571,-93.23989885744642,Park
+152,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
+153,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
+154,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
+155,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Jimmy's Smart Stop,45.01659093952955,-93.23685381082821,Convenience Store
+156,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
+157,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Hollywood Theater,45.019083,-93.236746,Movie Theater
+158,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
+159,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
+160,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Rewind Vintage - Northeast,45.019631,-93.236866,Clothing Store
+161,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
+162,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
+163,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
+164,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,Fairview pharmacy NE,45.020159350404946,-93.23710586528064,Pharmacy
+165,2723 Lincoln St NE,"Audubon Park, Minneapolis",45.017661,-93.238034,A Bag Lady,45.020308,-93.237339,Jewelry Store
+166,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
+167,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
+168,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Audubon Park,45.02009524971571,-93.23989885744642,Park
+169,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
+170,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
+171,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
+172,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
+173,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Deming Heights Park,45.02448104202494,-93.24263397121771,Park
+174,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
+175,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
+176,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
+177,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
+178,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
+179,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
+180,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Hollywood Theater,45.019083,-93.236746,Movie Theater
+181,2922 Lincoln St NE,"Audubon Park, Minneapolis",45.021127,-93.238749,Shannon Aleczander Salon and Spa,45.02421,-93.237415,Salon / Barbershop
+182,2504 Garfield St NE,"Audubon Park, Minneapolis",45.013427,-93.23339200000001,Mother Earth Gardens Northeast,45.01315661321824,-93.22715797138137,Garden Center
+183,2504 Garfield St NE,"Audubon Park, Minneapolis",45.013427,-93.23339200000001,Windom Park,45.01147699271594,-93.23726035683897,Park
+184,2504 Garfield St NE,"Audubon Park, Minneapolis",45.013427,-93.23339200000001,Que Viet Village House,45.01002365957301,-93.23701074086064,Vietnamese Restaurant
+185,2504 Garfield St NE,"Audubon Park, Minneapolis",45.013427,-93.23339200000001,Jimmy's Smart Stop,45.01659093952955,-93.23685381082821,Convenience Store
+186,2504 Garfield St NE,"Audubon Park, Minneapolis",45.013427,-93.23339200000001,Windom Park Rec Building,45.01139898480605,-93.23450490115324,Park
+187,2504 Garfield St NE,"Audubon Park, Minneapolis",45.013427,-93.23339200000001,Audubon Farmers Market,45.016761601882074,-93.23684288453607,Restaurant
+188,2559 Cleveland St NE,"Audubon Park, Minneapolis",45.014875,-93.230345,Mother Earth Gardens Northeast,45.01315661321824,-93.22715797138137,Garden Center
+189,2559 Cleveland St NE,"Audubon Park, Minneapolis",45.014875,-93.230345,Catrinas,45.01374878196114,-93.22451308267897,Mexican Restaurant
+190,2559 Cleveland St NE,"Audubon Park, Minneapolis",45.014875,-93.230345,Bremer Bank,45.013878649938604,-93.22607591286277,Bank
+191,2559 Cleveland St NE,"Audubon Park, Minneapolis",45.014875,-93.230345,4angels Creations,45.016490999999995,-93.226324,Arts & Crafts Store
+192,2634 Benjamin St NE,"Audubon Park, Minneapolis",45.016031,-93.229805,Mother Earth Gardens Northeast,45.01315661321824,-93.22715797138137,Garden Center
+193,2634 Benjamin St NE,"Audubon Park, Minneapolis",45.016031,-93.229805,Catrinas,45.01374878196114,-93.22451308267897,Mexican Restaurant
+194,2634 Benjamin St NE,"Audubon Park, Minneapolis",45.016031,-93.229805,4angels Creations,45.016490999999995,-93.226324,Arts & Crafts Store
+195,2634 Benjamin St NE,"Audubon Park, Minneapolis",45.016031,-93.229805,Bremer Bank,45.013878649938604,-93.22607591286277,Bank
+196,2634 Benjamin St NE,"Audubon Park, Minneapolis",45.016031,-93.229805,Zip In - Capella Tower,45.02019705960385,-93.23021042097713,Snack Place
+197,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Deming Heights Park,45.02448104202494,-93.24263397121771,Park
+198,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
+199,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Audubon Park,45.02009524971571,-93.23989885744642,Park
+200,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
+201,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
+202,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
+203,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
+204,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
+205,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Shannon Aleczander Salon and Spa,45.02421,-93.237415,Salon / Barbershop
+206,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
+207,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
+208,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
+209,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
+210,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
+211,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
+212,3024 Buchanan St NE,"Audubon Park, Minneapolis",45.022915000000005,-93.240049,Hollywood Theater,45.019083,-93.236746,Movie Theater
+213,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Audubon Park,45.02009524971571,-93.23989885744642,Park
+214,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
+215,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
+216,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
+217,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
+218,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
+219,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
+220,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Jimmy's Smart Stop,45.01659093952955,-93.23685381082821,Convenience Store
+221,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
+222,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
+223,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Hollywood Theater,45.019083,-93.236746,Movie Theater
+224,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
+225,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
+226,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Rewind Vintage - Northeast,45.019631,-93.236866,Clothing Store
+227,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
+228,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Fairview pharmacy NE,45.020159350404946,-93.23710586528064,Pharmacy
+229,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,A Bag Lady,45.020308,-93.237339,Jewelry Store
+230,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
+231,2723 Pierce St NE,"Audubon Park, Minneapolis",45.017598,-93.24060300000001,Salvation Army,45.01762008666992,-93.24681091308594,Thrift / Vintage Store
+232,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Audubon Park,45.02009524971571,-93.23989885744642,Park
+233,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
+234,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Deming Heights Park,45.02448104202494,-93.24263397121771,Park
+235,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
+236,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
+237,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
+238,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
+239,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
+240,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
+241,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Shannon Aleczander Salon and Spa,45.02421,-93.237415,Salon / Barbershop
+242,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
+243,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
+244,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
+245,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
+246,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
+247,2957 Pierce St NE,"Audubon Park, Minneapolis",45.022099,-93.24056999999999,Hollywood Theater,45.019083,-93.236746,Movie Theater
+248,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Audubon Park,45.02009524971571,-93.23989885744642,Park
+249,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Hazel's Northeast,45.0203147123783,-93.23709937480966,American Restaurant
+250,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,The Coffee Shop NE,45.02018384077054,-93.23718656876262,Coffee Shop
+251,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Sarah Jane's Bakery,45.02023117579033,-93.23713220001255,Bakery
+252,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Chimborazo,45.02029989953101,-93.2471005253027,Latin American Restaurant
+253,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Deming Heights Park,45.02448104202494,-93.24263397121771,Park
+254,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Parkway Pizza NE,45.02019336491277,-93.23704337941543,Pizza Place
+255,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,"Grand Casino Hinckley,MN",45.019098695300684,-93.23874028704473,Hotel Bar
+256,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Rewind,45.01968487752287,-93.23699896665704,Thrift / Vintage Store
+257,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Twin Spirits Distillery,45.021414,-93.247003,Brewery
+258,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Bare waxing,45.02003186224542,-93.23816744843188,Cosmetics Shop
+259,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Easy Way foods,45.019334,-93.23762099999999,Convenience Store
+260,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Fairview Pharmacy Northeast,45.020043,-93.236733,Pharmacy
+261,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Bare Salon,45.019498999999996,-93.236862,Cosmetics Shop
+262,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Knit And Bolt,45.01961135864258,-93.23674011230469,Arts & Crafts Store
+263,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Jung's Chow Mein,45.019391,-93.236789,Chinese Restaurant
+264,1209 29th Ave NE,"Audubon Park, Minneapolis",45.020614,-93.241744,Hollywood Theater,45.019083,-93.236746,Movie Theater
+265,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Eastside Food Co-op,45.014522705881475,-93.24689702622749,Organic Grocery
+266,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Holy Land - Northeast,45.01364617480907,-93.24719378643447,Middle Eastern Restaurant
+267,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Fair State Brewing Cooperative,45.013547085588115,-93.24767663403402,Brewery
+268,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Central Avenue Liquors,45.01446306113966,-93.24764329123003,Liquor Store
+269,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Aki's Bread Haus,45.01357069679567,-93.24751799746517,Bakery
+270,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,El Taco Riendo,45.01276170400099,-93.2474095988009,Mexican Restaurant
+271,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Sen Yai Sen Lek,45.01296118812239,-93.24755151071518,Thai Restaurant
+272,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Costa Blanca Bistro,45.01278606602034,-93.24749454245459,Tapas Restaurant
+273,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Karta Thai,45.01261839036057,-93.24725746884417,Thai Restaurant
+274,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Turbo Tim's Anything Automotive,45.01153351920192,-93.24826738784479,Automotive Shop
+275,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Crescent Moon Bakery,45.012057346611236,-93.24736602318063,Pizza Place
+276,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Durango Bakery,45.01283675658217,-93.24743117260316,Bakery
+277,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Redbox,45.015747,-93.247366,Video Store
+278,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Walgreens,45.0152912,-93.2476958,Pharmacy
+279,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Wells Fargo,45.0117678,-93.2471186,Bank
+280,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,U.S. Bank ATM,45.0117620590769,-93.24802694127504,ATM
+281,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Adelita's Mexican Restaurant,45.01239585779145,-93.24722998184029,Mexican Restaurant
+282,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Al-Amir Restaurant and Bakery,45.01483175486762,-93.2475757598877,Bakery
+283,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,Sabor Latina,45.01343179264252,-93.24746083378007,Latin American Restaurant
+284,2614 Polk St NE,"Audubon Park, Minneapolis",45.015485,-93.246065,DIPPED & DEBRIS,45.0129591717678,-93.24755606743902,Sandwich Place
 285,3821 16th Ave S,"Bancroft, Minneapolis",44.933337,-93.25077900000001,Marla's Caribbean Cuisine,44.934168733916415,-93.252303477606,Caribbean Restaurant
 286,3821 16th Ave S,"Bancroft, Minneapolis",44.933337,-93.25077900000001,Top Gun Crossfit,44.93558470647679,-93.24745583380074,Gym / Fitness Center
 287,3821 16th Ave S,"Bancroft, Minneapolis",44.933337,-93.25077900000001,Dairy Queen,44.934280268248806,-93.25596570968628,Ice Cream Shop
